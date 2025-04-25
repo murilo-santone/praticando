@@ -13,5 +13,5 @@ area = largura*altura
 
 tinta = area/2
 
-print('Área da parede: {:.2f} m2'.format(area))
-print('Você precisa de {:.2f} litros de tinta para pintar sua parede'.format(tinta))
+print('Área da parede: {:.3f}m2'.format(area))
+print('Você precisa de {:.4f} litros de tinta para pintar sua parede'.format(tinta))
